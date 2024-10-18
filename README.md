@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I've seen a lot of my friends use Github, so I'm grateful for the opportunity to learn! As a budding a social psychologist, its important for me to be aware of severa data analysis tools that would help me in my researhc pursuits. Given the versatile nature of platforms like Github, I look forward to all that I can do with it :)
 
 <!--
 **hkrishnamurti/hkrishnamurti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
